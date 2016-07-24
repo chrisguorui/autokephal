@@ -1,0 +1,16 @@
+# Defaults for BoterGo
+
+# Values for the bot
+[Bot]
+Nick = "PenguBot"
+User = "PenguBot"
+
+# About the connection
+[Connection]
+ServerName = "irc.freenode.net"
+ServerPort = "6697"
+SSL = true
+Channel = "#PenguBotTest"
+
+
+
